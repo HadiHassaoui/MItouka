@@ -80,7 +80,7 @@ Je recherche constamment, dans les formes, la pureté classique des lignes tout 
 
 Dans ma production actuelle, je n’exploite pas beaucoup les pierres précieuses et semi-précieuses; toutefois, j’aimerais leur accorder une plus grande place dans mes prochaines créations, car elles habillent bien un bijou et apportent une touche colorée au métal. Lorsque pierres il y a dans mes créations, elles sont facettées et incrustées dans le métal sans chaton, ni griffes, en pavée, un peu à la manière florentine.
 
-Je considère le bijou comme un complément à l’habit, au vêtement. Il est le reflet de la personnalité et du style de celui qui le porte. Il définit, il distingue des autres, suscite l’intérêt, engage la conversation, habille le corps…
+Je considère le bijou comme un complément à l’habit, au vêtement. Il est le reflet de la personnalité et du style de celui qui le porte. Il définit, il distingue des autres, suscite l’intérêt, engage la conversation, habille le corps… bonjour
 [/av_textblock]
 
 [/av_cell_one_half]

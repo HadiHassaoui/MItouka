@@ -8,13 +8,13 @@ layout: page
 permalink: http://www.mitouka.com/about/
 published: true
 sidebar:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 footer:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 header_title_bar:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 header_transparency:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 ---
 [av_section min_height='' min_height_px='500px' padding='default' shadow='no-border-styling' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='http://www.mitouka.com/wp-content/uploads/2014/08/w1920_h1080-1030x579.jpg' attachment='1233' attachment_size='large' attach='scroll' position='center left' repeat='stretch' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
 [av_two_fifth first min_height='' vertical_alignment='av-align-top' space='no_margin' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='rgba(0,0,0,0.5)' radius='0' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_display='']

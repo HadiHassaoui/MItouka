@@ -8,13 +8,13 @@ layout: page
 permalink: http://www.mitouka.com/contact/
 published: true
 sidebar:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 footer:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 header_title_bar:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 header_transparency:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 ---
 [av_google_map height='3:1' zoom='9' saturation='-100' hue='' zoom_control='aviaTBzoom_control']
 [av_gmap_location address='' city='Mont-Carmel' country='Canada' long='-69.85858999999999' lat='47.439827' marker='' imagesize='40'][/av_gmap_location]

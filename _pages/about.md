@@ -61,21 +61,17 @@ In 2008 and 2009, mitouka have displayed her jewelry at <u>Lafrenière &amp; Pai
 
 [av_heading heading='Creation process' tag='h3' style='' size='' subheading_active='' subheading_size='15' padding='10' color='' custom_font='' admin_preview_bg=''][/av_heading]
 
-[av_textblock size='' font_color='' color='' admin_preview_bg='']
-Après avoir étudié la joaillerie en Italie, je suis revenue au Québec pour y vivre de mon métier. Habitée par ces années de culture italienne, mon travail artistique s’en trouve largement inspiré. Même en demeurant ici, je m’intéresse encore, par le biais des revues, aux modes et tendances italiennes, lesquelles sont toujours d’avant-garde.
+[av_textblock size='' font_color='' color='' admin_preview_bg='']My jewelry’s creation process starts often from a sketch and a shape I have in mind. Looking at my wax carving block, I try to see the three dimensional form I would like to create. To materialize it, I first carve numerous lines (leading lines and lines that help me). Then, I file and I scratch to extract a shape from the bloc.
 
-Mon processus créatif débute souvent par le croquis d’une pièce que j’ai en tête. Ensuite, j’observe mon bloc de cire et essaie d’y percevoir la forme 3D que j’aimerais obtenir. Je m’aide en y gravant une série de lignes: des lignes directrices mais celles aussi qui me sécurisent. Je lime, je gratte la cire; j’essaie de faire sortir la forme du bloc. J’examine le premier résultat et évalue ce que j’aime et ce que je n’aime pas. Si c’est possible, je continue; sinon, je recommence afin d’obtenir les dimensions, les volumes et le poids du bijou que je désire obtenir.
+I explore the first result and I weigh what I like and dislike. If it is possible, I keep filing and scratching. If not, I start all over again. I do so as often as I need to get the dimension, the volume and the final weight of the jewelry I have imagined and would like to materialize.
 
-J’aime sculpter dans la cire car cette technique me donne l’impression d’être plus libre et spontanée dans ma manière de créer. Je peux jouer avec les rondeurs, les volumes, les profondeurs et ainsi obtenir les formes que je privilégie, notamment les courbes et les spirales. Une fois les cires transformées en argent, je procède au travail du métal en utilisant différentes techniques comme le ciselage minutieux.
+I love carving wax. When I use this technique, I feel I can create freely and spontaneously. It allows me to play with shapes, roundness, volumes and deepness, and obtain the lines and forms I cherish: curves and spirals.
 
-La femme, ses rondeurs, sa complexité, son originalité, sa force et sa féminité sont au cœur de chacune de mes créations. Je m’inspire aussi des éléments de la nature, plus particulièrement de ce qui provient de la mer, tels que les coquillages. La mer, qui évoque la liberté, l’évasion, me donne envie de créer; c’est d’ailleurs lors d’un voyage en Amérique Latine que j’ai décidé de devenir joaillière.
+Once I have the shape I wanted, I send it to a third party to have a mold made (for production purposes). I then start the whole production process. I inject wax in the mold and I determine the gauge and size of the rings and bracelets.
 
-Je recherche constamment, dans les formes, la pureté classique des lignes tout en y ajoutant une touche d’exubérance propre au style baroque. De ces deux contrastes, naît un bijou résolument moderne. J’aime l’abondance et l’exagération des formes ainsi que l’opposition entre le noir issu de l’oxydation et l’argent, malgré le fait que je privilégie la brillance et l’effet miroir d’une surface bien polie. J’ai aussi à cœur que le regardant sache que le produit est fait à la main, de façon artisanale, que mes créations donnent à voir la recherche, la pensée et le travail derrière chacune d’elles.
+I then bring the wax shapes to the studio where the casting is done. Once the wax is transformed in silver, I work the metal, i.e. I cut the runner and I file, scratch, weld, stamp, oxidize (if necessary) and, finally, polish the jewel.
 
-Dans ma production actuelle, je n’exploite pas beaucoup les pierres précieuses et semi-précieuses; toutefois, j’aimerais leur accorder une plus grande place dans mes prochaines créations, car elles habillent bien un bijou et apportent une touche colorée au métal. Lorsque pierres il y a dans mes créations, elles sont facettées et incrustées dans le métal sans chaton, ni griffes, en pavée, un peu à la manière florentine.
-
-e considère le bijou comme un complément à l’habit, au vêtement. Il est le reflet de la personnalité et du style de celui qui le porte. Il définit, il distingue des autres, suscite l’intérêt, engage la conversation, habille le corps… bonjour
-[/av_textblock]
+Every year I invest three months in creating new models, which I produce during the rest of the year. Because of my training and my numerous stays in Italy, I am always curious about the Italian tendencies in terms of fashion and accessories. It inspires me. Women, their roundness, their strength and their femininity are at the heart of all my creations.[/av_textblock]
 
 [/av_cell_one_half]
 [/av_layout_row]

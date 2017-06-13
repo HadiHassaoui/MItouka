@@ -8,7 +8,7 @@ layout: page
 permalink: http://www.mitouka.com/trouver/
 published: true
 sidebar:
-  - ""
+  - Footer ETSY
 footer:
   - ""
 header_title_bar:

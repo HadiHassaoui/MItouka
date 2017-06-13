@@ -10,7 +10,7 @@ published: true
 sidebar:
   - ""
 footer:
-  - all
+  - ""
 header_title_bar:
   - ""
 header_transparency:

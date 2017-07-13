@@ -32,9 +32,7 @@ post_date: 2017-05-07 01:26:48
 [av_iconlist position='left' iconlist_styling='' custom_title_size='' custom_content_size='' font_color='custom' custom_title='#ffffff' custom_content='' color='custom' custom_bg='#6b6b6b' custom_font='#ffffff' custom_border='' admin_preview_bg='rgb(34, 34, 34) none repeat scroll 0% 0%']
 [av_iconlist_item title='1 (418) 551-3777' link='' linktarget='' linkelement='' icon='ue854' font='entypo-fontello'][/av_iconlist_item]
 [av_iconlist_item title='info@mitouka.com' link='' linktarget='' linkelement='' icon='ue805' font='entypo-fontello'][/av_iconlist_item]
-[av_iconlist_item title='Mont-Carmel, Québec' link='' linktarget='' linkelement='' icon='ue844' font='entypo-fontello']
-Sur rendez-vous
-[/av_iconlist_item]
+[av_iconlist_item title='Mont-Carmel, Québec' link='' linktarget='' linkelement='' icon='ue844' font='entypo-fontello']By appointment[/av_iconlist_item]
 [/av_iconlist]
 
 [av_image src='http://www.mitouka.com/wp-content/uploads/2014/09/Mitouka_Blanc_500px-180x180.png' attachment='2130' attachment_size='square' align='left' styling='circle' hover='av-hover-grow' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation' admin_preview_bg=''][/av_image]

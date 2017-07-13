@@ -8,7 +8,7 @@ permalink: http://www.mitouka.com/about/
 published: true
 post_date: 2014-09-26 17:23:32
 ---
-[av_section min_height='custom' min_height_px='300px' padding='default' shadow='no-border-styling' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='http://www.mitouka.com/wp-content/uploads/2017/04/il_fullxfull.1100872144_lyqy-1000x630.jpg' attachment='1713' attachment_size='featured_large' attach='fixed' position='center center' repeat='contain' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0'][/av_section]
+[av_section min_height='custom' min_height_px='400px' padding='default' shadow='no-border-styling' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='http://www.mitouka.com/wp-content/uploads/2017/04/Coeur-ouverte-Bague-1-495x400.png' attachment='2119' attachment_size='portfolio' attach='fixed' position='center center' repeat='contain' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0'][/av_section]
 
 [av_layout_row border='' min_height='0' color='main_color' mobile='av-flex-cells']
 [av_cell_one_half vertical_align='top' padding='40px' padding_sync='true' background_color='' src='' attachment='' attachment_size='' background_attachment='scroll' background_position='top left' background_repeat='no-repeat']
